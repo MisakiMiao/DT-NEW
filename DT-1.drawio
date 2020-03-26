@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-26T13:45:15.322Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3314.0 Safari/537.36 SE 2.X MetaSr 1.0" etag="7fLqP0-fCIHktK1PRF5P" version="12.9.3" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2020-03-26T13:45:33.278Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3314.0 Safari/537.36 SE 2.X MetaSr 1.0" etag="Ai_hLen69pKoA5gV26GC" version="12.9.3" type="github" pages="16">
   <diagram id="eeqbbg8ScYCf5zG0aNKg" name="绑定目标">
     <mxGraphModel dx="1422" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1901,10 +1901,10 @@
         <mxCell id="eq5lRDljBdiDBoDolNSy-0" />
         <mxCell id="eq5lRDljBdiDBoDolNSy-1" parent="eq5lRDljBdiDBoDolNSy-0" />
         <mxCell id="Mhdlip9MDSOCJY9kVHjv-0" value="3D&lt;br&gt;样品库&lt;br&gt;状态&lt;br&gt;显示" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="eq5lRDljBdiDBoDolNSy-1">
-          <mxGeometry x="40" y="180" width="40" height="100" as="geometry" />
+          <mxGeometry x="40" y="190" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Mhdlip9MDSOCJY9kVHjv-1" value="维护&lt;br&gt;状态&lt;br&gt;文字&lt;br&gt;提醒" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="eq5lRDljBdiDBoDolNSy-1">
-          <mxGeometry x="100" y="180" width="40" height="100" as="geometry" />
+          <mxGeometry x="100" y="190" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xcDjFP1QtO9_5KMDdqtT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="eq5lRDljBdiDBoDolNSy-1" source="xcDjFP1QtO9_5KMDdqtT-0" target="Mhdlip9MDSOCJY9kVHjv-0">
           <mxGeometry relative="1" as="geometry" />
@@ -1913,13 +1913,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xcDjFP1QtO9_5KMDdqtT-0" value="维护状态提醒" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="eq5lRDljBdiDBoDolNSy-1">
-          <mxGeometry x="20" y="100" width="140" height="40" as="geometry" />
+          <mxGeometry x="20" y="110" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xcDjFP1QtO9_5KMDdqtT-1" value="样品余量提醒" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="eq5lRDljBdiDBoDolNSy-1">
-          <mxGeometry x="200" y="100" width="140" height="40" as="geometry" />
+          <mxGeometry x="200" y="110" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xcDjFP1QtO9_5KMDdqtT-2" value="样品借出提醒" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="eq5lRDljBdiDBoDolNSy-1">
-          <mxGeometry x="380" y="100" width="140" height="40" as="geometry" />
+          <mxGeometry x="380" y="110" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xcDjFP1QtO9_5KMDdqtT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="eq5lRDljBdiDBoDolNSy-1" source="xcDjFP1QtO9_5KMDdqtT-3" target="xcDjFP1QtO9_5KMDdqtT-0">
           <mxGeometry relative="1" as="geometry" />
@@ -1931,7 +1931,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xcDjFP1QtO9_5KMDdqtT-3" value="样品库监控信息管理模块" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="eq5lRDljBdiDBoDolNSy-1">
-          <mxGeometry x="180" width="180" height="40" as="geometry" />
+          <mxGeometry x="180" y="10" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
